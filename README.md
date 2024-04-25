@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mendes</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 align="center">Hi 👋, I'm Andre Mendes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mendes113&label=Profile%20views&color=0e75b6&style=flat" alt="mendes113" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif">
 
+
+
+<br>
+<br>
+<br>
+
+
+- 🔭 I’m currently **Not working**
+- 📕 Software engineering student
+
+- 📫 How to reach me **andremendes0113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-mendes-3b839b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mendes " height="30" width="40" /></a>
+<a href="https://instagram.com/andre_mendesm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre_mendesm" height="30" width="40" /></a>
 </p>
-  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes113&show_icons=true&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes113&hide=css,html,scss)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes113&hide=css,html,scss)
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/nEn_wAIEISEAAAAC/error-404.gif">
+ 
+<img align="right" alt="Coding" width="850" src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif?cid=790b76114vr8g3x7d7vti6h113x8pkn0qm885yonfzt1d37d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
