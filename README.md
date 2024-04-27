@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andre Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendes113&label=Profile%20views&color=0e75b6&style=flat" alt="mendes113" /> </p>
 
-
-<img align="right" alt="Coding" width="250" src="code.gif">
-
-
-<br>
-<br>
-<br>
-
+<img align="right" alt="Coding" width="400"  height="450" src="code.gif">
 
 - 🔭 I’m currently **Not working**
 - 📕 Software engineering student
