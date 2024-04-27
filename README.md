@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendes113&label=Profile%20views&color=0e75b6&style=flat" alt="mendes113" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="code.gif">
+<img align="right" alt="Coding" width="250" src="code.gif">
 
 
 <br>
