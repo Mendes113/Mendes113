@@ -19,4 +19,3 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes113&hide=css,html,scss)
 
  
-<img align="right" alt="Coding" width="850" src="https://media.giphy.com/media/9HSZX0Wtr82Vx0GnLT/giphy.gif?cid=790b76114vr8g3x7d7vti6h113x8pkn0qm885yonfzt1d37d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
