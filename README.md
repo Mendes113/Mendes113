@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400"  height="450" src="code.gif">
 
-- 🔭 I’m currently **Not working**
+- 🔭 I’m currently **Working**
 - 📕 Software engineering student
 
 - 📫 How to reach me **andremendes0113@gmail.com**
